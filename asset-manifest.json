@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/bookfinder-app/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/bookfinder-app/static/js/main.7577ab42.chunk.js",
+    "main.js.map": "/bookfinder-app/static/js/main.7577ab42.chunk.js.map",
+    "runtime-main.js": "/bookfinder-app/static/js/runtime-main.cb7f45e1.js",
+    "runtime-main.js.map": "/bookfinder-app/static/js/runtime-main.cb7f45e1.js.map",
+    "static/js/2.1ee36446.chunk.js": "/bookfinder-app/static/js/2.1ee36446.chunk.js",
+    "static/js/2.1ee36446.chunk.js.map": "/bookfinder-app/static/js/2.1ee36446.chunk.js.map",
+    "static/js/3.79af77ce.chunk.js": "/bookfinder-app/static/js/3.79af77ce.chunk.js",
+    "static/js/3.79af77ce.chunk.js.map": "/bookfinder-app/static/js/3.79af77ce.chunk.js.map",
+    "index.html": "/bookfinder-app/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/bookfinder-app/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.1ee36446.chunk.js.LICENSE.txt": "/bookfinder-app/static/js/2.1ee36446.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/bookfinder-app/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb7f45e1.js",
+    "static/js/2.1ee36446.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.7577ab42.chunk.js"
+  ]
+}
